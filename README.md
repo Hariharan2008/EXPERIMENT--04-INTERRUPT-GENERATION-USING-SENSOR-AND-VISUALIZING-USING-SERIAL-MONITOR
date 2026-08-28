@@ -705,19 +705,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 <img width="1916" height="1078" alt="Screenshot 2026-08-06 110956" src="https://github.com/user-attachments/assets/299ab179-7178-4cba-afb7-5aa4cdb4a8d6" />
-<img width="1302" height="716" alt="image" src="https://github.com/user-attachments/assets/5094a716-9407-4003-8384-cc7fc0d68ec2" />
-
-
+<img width="1256" height="660" alt="Screenshot 2026-08-28 204750" src="https://github.com/user-attachments/assets/8b231690-2415-41b7-9f12-8c2a8dbb2d07" />
  
  ## Circuit board :
- <img width="777" height="627" alt="image" src="https://github.com/user-attachments/assets/0a13db0b-4153-47a6-9287-d1fda912162c" />
- <img width="767" height="618" alt="image" src="https://github.com/user-attachments/assets/512cd9d9-699f-47b7-bcec-8c1b0db2c733" />
  <img width="1595" height="1118" alt="image" src="https://github.com/user-attachments/assets/1bded8a7-86b1-4bcf-a934-823f4e26e460" />
  <img width="1588" height="1047" alt="image" src="https://github.com/user-attachments/assets/97a96041-169e-4ab3-a011-4190f373a95a" />
-
-
-
-
  
  
 ## Result :
