@@ -708,8 +708,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="1256" height="660" alt="Screenshot 2026-08-28 204750" src="https://github.com/user-attachments/assets/8b231690-2415-41b7-9f12-8c2a8dbb2d07" />
  
  ## Circuit board :
- <img width="1595" height="1118" alt="image" src="https://github.com/user-attachments/assets/1bded8a7-86b1-4bcf-a934-823f4e26e460" />
- <img width="1588" height="1047" alt="image" src="https://github.com/user-attachments/assets/97a96041-169e-4ab3-a011-4190f373a95a" />
+ <img width="987" height="1162" alt="image" src="https://github.com/user-attachments/assets/5964c395-13d7-4506-a500-0a66a55b8ed8" />
+ <img width="959" height="1158" alt="image" src="https://github.com/user-attachments/assets/f3f8f303-b953-4098-9c56-a923fcbf8ec7" />
+
  
  
 ## Result :
